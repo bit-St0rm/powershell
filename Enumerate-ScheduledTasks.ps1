@@ -3,7 +3,7 @@ Function Enumerate-ScheduledTasks
 <#
 .Synopsis
 
-Master Function that gets all sche
+Master Function that gets all scheduled tasks and provides several filters to extract relevent infomation.
 
 Enumerate-ScheduledTasks Function: Enumerate-ScheduledTasks
 Author: st0rm
