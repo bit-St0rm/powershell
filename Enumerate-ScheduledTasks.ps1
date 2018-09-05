@@ -12,7 +12,7 @@ Optional Dependencies: None
 
 .DESCRIPTION
 
-Get-PrivilegedSTs returns associated information of scheduled tasks to help find privilege escalation vectors.
+Enumerate-ScheduledTasks returns associated information of scheduled tasks to help find privilege escalation vectors.
 
 .PARAMETER RunLevel
 
