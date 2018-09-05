@@ -54,7 +54,7 @@ C:\PS> Import-Module .\Enumerate-ScheduledTasks.ps1; Enumerate-ScheduledTasks -T
 
 .NOTES
 
-Get-PrivilegedSTs returns associated information of scheduled tasks to help find privilege escalation vectors.
+Enumerate-ScheduledTasks returns associated information of scheduled tasks to help find privilege escalation vectors.
 #>
 
 # Get All Scheduled Tasks and iterate over each task filter out results that don't match any specified filters.
